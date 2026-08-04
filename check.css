@@ -1,0 +1,29 @@
+.bg{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 90.5vh;
+}
+.navbar{
+    color: white;
+}
+.list-group-item{
+    color: white;
+    border: 1px solid black;
+
+}
+.list-group{
+    margin-top:60px;
+}
+.list{
+    color: white;
+    list-style-type: none;
+    font-size: 25px;
+    padding-left:150px;
+}
+.lis{
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
